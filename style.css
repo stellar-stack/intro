@@ -1,0 +1,11 @@
+.index-banner {
+    width: 100%;
+    height: calc(100vh - 100px); /* we put white-space aside the - */
+    background-image: url('img1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+    /* display: table; */
+}
